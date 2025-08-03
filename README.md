@@ -1,57 +1,58 @@
 1. Judul Proyek (Project title): Kalkulator Sederhana
 
 2. Deskripsi (Description)
-Kalkulator Sederhana adalah aplikasi kalkulator berbasis web yang dibangun menggunakan HTML, CSS, dan JavaScript murni (JavaScript vanilla).
-Aplikasi ini dapat melakukan operasi aritmatika dasar seperti penjumlahan, pengurangan, perkalian, dan pembagian, serta menampilkan hasilnya langsung di layar.
-
-3. Teknologi yang Digunakan (Technologies used)
    
-a. HTML5: Untuk struktur halaman.
+   Kalkulator Sederhana adalah aplikasi kalkulator berbasis web yang dibangun menggunakan HTML, CSS, dan JavaScript murni (JavaScript vanilla).
+   Aplikasi ini dapat melakukan operasi aritmatika dasar seperti penjumlahan, pengurangan, perkalian, dan pembagian, serta menampilkan hasilnya langsung di layar.
 
-b. CSS3: Untuk desain antarmuka kalkulator.
+4. Teknologi yang Digunakan (Technologies used)
+   
+   a. HTML5: Untuk struktur halaman.
 
-c. JavaScript (Vanilla): Untuk logika kalkulasi dan interaksi tombol.
+   b. CSS3: Untuk desain antarmuka kalkulator.
 
-d. Google Fonts (Poppins): Untuk tipografi.
+   c. JavaScript (Vanilla): Untuk logika kalkulasi dan interaksi tombol.
+
+   d. Google Fonts (Poppins): Untuk tipografi.
 
 5. Fitur (Features)
    
-a. Operasi matematika dasar: +, -, ×, ÷.
+   a. Operasi matematika dasar: +, -, ×, ÷.
 
-b. Tombol Hapus (C) untuk menghapus input.
+   b. Tombol Hapus (C) untuk menghapus input.
 
-c. Hasil pembagian dibulatkan ke 4 tempat desimal.
+   c. Hasil pembagian dibulatkan ke 4 tempat desimal.
 
-d. Antarmuka responsif dengan desain sederhana.
+   d. Antarmuka responsif dengan desain sederhana.
 
-e. Menggunakan font Poppins untuk tampilan modern.
+   e. Menggunakan font Poppins untuk tampilan modern.
 
 7. Petunjuk Pengaturan (Setup instructions)
    
-a. Clone repositori: https://github.com/ApriliaIndri/SimpleCalculator
+   a. Clone repositori: https://github.com/ApriliaIndri/SimpleCalculator
 
-b. Buka Folder Proyek dengan perintah "cd SimpleCalculator"
+   b. Buka Folder Proyek dengan perintah "cd SimpleCalculator"
 
-c. Buka file index.html di browser
+   c. Buka file index.html di browser
 
-- Klik dua kali file index.html atau
+      - Klik dua kali file index.html atau
   
-- Jalankan di server langsung (menggunakan VS Code).
+      - Jalankan di server langsung (menggunakan VS Code).
   
-d. (Opsional) Deploy ke Vercel
+   d. (Opsional) Deploy ke Vercel
 
-- Pastikan file index.html berada di folder utama (root proyek).
+      - Pastikan file index.html berada di folder utama (root proyek).
   
-- Unggah proyek ke Vercel atau hubungkan ke repositori GitHub.
+      - Unggah proyek ke Vercel atau hubungkan ke repositori GitHub.
   
-- Pilih framework "Lainnya" saat penyiapan.
+      - Pilih framework "Lainnya" saat penyiapan.
 
 6. Penjelasan Dukungan AI (AI support explanation)
    
-Proyek ini dibuat dengan bantuan AI (ibm-granite / granite-3.3-8b-instruct) untuk:
+   Proyek ini dibuat dengan bantuan AI (ibm-granite / granite-3.3-8b-instruct) untuk:
 
-a. Menyusun HTML, CSS, dan JavaScript kalkulator.
+   a. Menyusun HTML, CSS, dan JavaScript kalkulator.
 
-b. Mempercepat proses pengembangan dari desain hingga logika kalkulasi.
+   b. Mempercepat proses pengembangan dari desain hingga logika kalkulasi.
 
-c. Menghasilkan antarmuka yang lebih konsisten dan user-friendly.
+   c. Menghasilkan antarmuka yang lebih konsisten dan user-friendly.
