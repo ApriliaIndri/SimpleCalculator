@@ -1,5 +1,4 @@
-1. Judul Proyek (Project title): Kalkulator Sederhana
-
+1. Judul Proyek (Project title): Simple Calculator
 2. Deskripsi (Description)
    
    Kalkulator Sederhana adalah aplikasi kalkulator berbasis web yang dibangun menggunakan HTML, CSS, dan JavaScript murni (JavaScript vanilla).
